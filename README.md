@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1135815128.svg)](https://doi.org/10.5281/zenodo.18280947)
 ## Overview / 概述
 
 This script is designed for phenotypic clustering analysis of multiple alfalfa lines. It calculates genetic distances based on plant height and internode number data and generates hierarchical clustering dendrograms. The script features **multi-source data compatibility** and **automated clustering** functionality.
