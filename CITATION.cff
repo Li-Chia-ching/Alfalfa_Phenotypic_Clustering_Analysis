@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: Li
-  given-names: Jiaqing
+- family-names: "Li"
+  given-names: "Jiaqing"
 orcid: https://orcid.org/10.5281/zenodo.18280947
-title: Li-Chia-ching/Alfalfa_Phenotypic_Clustering_Analysis: v3.0: Alfalfa Phenotype Analysis Tool
+title: "Li-Chia-ching/Alfalfa_Phenotypic_Clustering_Analysis: v3.0: Alfalfa Phenotype Analysis Tool"
 version: v3.0.0
 date-released: 2026-01-17
